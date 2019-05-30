@@ -1,0 +1,26 @@
+{
+  "name": "node-testing",
+  "version": "1.0.0",
+  "description": "My testing of node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JPmAn24/Node-Testing.git"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "Joel Arndt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JPmAn24/Node-Testing/issues"
+  },
+  "homepage": "https://github.com/JPmAn24/Node-Testing#readme",
+  "dependencies": {
+    "package_name": "^1.0.2"
+  }
+}
